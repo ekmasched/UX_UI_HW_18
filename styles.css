@@ -27,7 +27,7 @@
   }
 
   .workGrid {
-    grid-template-columns: 1fr; /* All items will stack vertically */
+    grid-template-columns: 1fr;
     grid-template-areas:
       "project1"
       "project2"
